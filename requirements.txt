@@ -1,0 +1,4 @@
+openai==1.58.1
+pandas==2.2.3
+torch==2.3.0
+transformers==4.41.0
